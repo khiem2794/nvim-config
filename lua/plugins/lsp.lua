@@ -8,7 +8,7 @@ return {
       "shellcheck",
       "luacheck",
       "rust-analyzer",
-      "tailwindcss-languague-server",
+      "tailwindcss-language-server",
       "typescript-language-server",
       "css-lsp",
     })
