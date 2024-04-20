@@ -10,6 +10,6 @@ keymap.set("n", "-", "<C-x>")
 -- Select all
 keymap.set("n", "<C-a>", "gg<S-v>G")
 
-keymap.set("n", "<C-j>", function()
+keymap.set("n", "<C-n>", function()
   vim.diagnostic.goto_next()
 end, opts)
